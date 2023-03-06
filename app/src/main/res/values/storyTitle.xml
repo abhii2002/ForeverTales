@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyTitles">
+
+    <item>The Stars Tonight   </item>
+    <item>A Guide to Courteous Thievery  </item>
+    <item>  Ashes, Ashes, We All Fall Down  </item>
+    <item> Dark Days Under a Black Sun  </item>
+    <item> Darkness is Fallen  </item>
+    <item> Shattered Pieces  </item>
+    <item>Unmasked </item>
+    <item> Remember Me </item>
+    <item>The Sound of Light </item>
+    <item> Long Far Away </item>
+
+    </string-array>
+</resources>
